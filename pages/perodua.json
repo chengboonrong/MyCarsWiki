@@ -2,7 +2,8 @@
     {
         "model": "Axia",
         "price": "RM22990.00",
-        "image": "http://www.perodua.com.my/media/image/cars/axia.png"
+        "image": "http://www.perodua.com.my/media/image/cars/axia.png",
+        "cat": "Metallic & Solid"
     },
     {
         "model": "Bezza",

@@ -6,14 +6,13 @@ import HeadTitle from './headtitle.js';
 const Proton = props => (
     <div>
       <HeadTitle title='Proton cars'></HeadTitle>
-      <p> This is Proton page </p>
       <ul>
       {props.shows.map(show => (
-        <li key={show.model}>
+        <li key={show.model} style={{listStyleType: 'none'}} >
           <Link href={`/proton/${show.model}`}>
             <a>{show.model}</a>
           </Link>
-          <img src={show.image}></img>
+          <img src={show.image} width='280' height='120'></img>
         </li>
       ))}
     </ul>

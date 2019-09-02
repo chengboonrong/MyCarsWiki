@@ -7,22 +7,22 @@
             {
                 "name": "Standard 2WD",
                 "price": "RM99,800",
-                "cat": "Solid / Metallic"
+                "cat": "Metallic & Solid"
             },
             {
                 "name": "Executive 2WD",
                 "price": "RM109,800",
-                "cat": "Solid / Metallic"
+                "cat": "Metallic & Solid"
             },
             {
                 "name": "Executive AWD",
                 "price": "RM115,800",
-                "cat": "Solid / Metallic"
+                "cat": "Metallic & Solid"
             },
             {
                 "name": "Premium 2WD",
                 "price": "RM123,800",
-                "cat": "Solid / Metallic"
+                "cat": "Metallic & Solid"
             }
         ]
     },
@@ -33,42 +33,132 @@
         "package": [
             {
                 "name": "Standard MT",
-                "price": "RM32,800"
+                "price": "RM32,800",
+                "cat": "Metallic & Solid"
             },
             {
                 "name": "Standard AT",
-                "price": "RM35,800"
+                "price": "RM35,800",
+                "cat": "Metallic & Solid"
             }
         ]
     },
     {
         "model": "Persona",
         "price": "RM42600.00*",
-        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/persona/new-360-visuals/navigation-tab-image/442x170.ashx"
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/persona/new-360-visuals/navigation-tab-image/442x170.ashx",
+        "package": [
+            {
+                "name": "Standard MT",
+                "price": "RM42,600",
+                "cat": "Metallic & Solid"
+            },
+            {
+                "name": "Standard CVT",
+                "price": "RM44,600",
+                "cat": "Metallic & Solid"
+            }
+        ]
     },
     {
         "model": "Iriz",
         "price": "RM36700.00*",
-        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/iriz/navigation/navigation_442x170.ashx"
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/iriz/navigation/navigation_442x170.ashx",
+        "package": [
+            {
+                "name": "1.3L Standard MT",
+                "price": "RM36,700",
+                "cat": "Metallic & Solid"
+            },
+            {
+                "name": "1.3L Standard CVT",
+                "price": "RM39,700",
+                "cat": "Metallic & Solid"
+            }
+        ]
     },
     {
         "model": "Exora",
         "price": "RM59800.00*",
-        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/exora/2019-exora/navigation/exora_navi.ashx"
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/exora/2019-exora/navigation/exora_navi.ashx",
+        "package": [
+            {
+                "name": "Executive",
+                "price": "RM59,800",
+                "cat": "Metallic & Solid"
+            },
+            {
+                "name": "Premium",
+                "price": "RM66,800",
+                "cat": "Metallic & Solid"
+            }
+        ]
     },
     {
         "model": "Perdana",
         "price": "RM103927.68*",
-        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/perdana/navigation/perdana-icon.ashx"
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/perdana/navigation/perdana-icon.ashx",
+        "package": [
+            {
+                "name": "2.0L",
+                "price": [
+                    {
+                        "cat": "Metallic",
+                        "price": "RM104,326.31"
+                    },
+                    {
+                        "cat": "Solid",
+                        "price": "RM103,927.68"
+                    }
+                ]
+            },
+            {
+                "name": "2.4L",
+                "price": [
+                    {
+                        "cat": "Metallic",
+                        "price": "RM127,247.74"
+                    },
+                    {
+                        "cat": "Solid",
+                        "price": "RM126,849.21"
+                    }
+                ]
+            }
+        ]
     },
     {
         "model": "Ertiga",
         "price": "RM56773.00*",
-        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/ertiga/navigation/ertiga-icon.ashx"
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/ertiga/navigation/ertiga-icon.ashx",
+        "package": [
+            {
+                "name": "Executive MT",
+                "price": "RM56,773",
+                "cat": "Metallic & Solid"
+            },
+            {
+                "name": "Executive AT",
+                "price": "RM59,525",
+                "cat": "Metallic & Solid"
+            }
+        ]
     },
     {
         "model": "Preve",
         "price": "RM61090.94*",
-        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/preve/navigation/preve-icon.ashx"
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/preve/navigation/preve-icon.ashx",
+        "package": [
+            {
+                "name": "1.6L Executive CVT",
+                "price": "RM61,090.94",
+                "cat": "Metallic & Solid"
+            },
+            {
+                "name": "1.6L Premium CVT",
+                "price": "RM68,430.57",
+                "cat": "Metallic & Solid"
+            }
+        ]
     }
 ]

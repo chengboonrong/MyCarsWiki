@@ -16,7 +16,7 @@ const Car = props => (
       <p>{props.price}</p>
       <ul>
         {props.package.map(p => (
-          <li>
+          <li key={p.name}>
             <a>{p.name} - {p.price} - {p.cat}</a>
           </li>
         ))}
