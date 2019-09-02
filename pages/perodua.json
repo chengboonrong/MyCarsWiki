@@ -1,0 +1,27 @@
+[   
+    {
+        "model": "Axia",
+        "price": "RM22990.00",
+        "image": "http://www.perodua.com.my/media/image/cars/axia.png"
+    },
+    {
+        "model": "Bezza",
+        "price": "RM34490.00",
+        "image": "http://www.perodua.com.my/media/image/cars/bezza.png"
+    },
+    {
+        "model": "Myvi",
+        "price": "RM42790.00",
+        "image": "http://www.perodua.com.my/media/image/cars/myvi.png"
+    },
+    {
+        "model": "Alza",
+        "price": "RM51490.00",
+        "image": "http://www.perodua.com.my/media/image/cars/alza.png"
+    },
+    {
+        "model": "Aruz",
+        "price": "RM72900.00",
+        "image": "http://www.perodua.com.my/media/image/cars/aruz.png"
+    }
+]

@@ -1,0 +1,74 @@
+[   
+    {
+        "model": "X70",
+        "price": "RM99800.00*",
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/promotions/2018/suv-x70-promotion/x70-navi-thumb.ashx",
+        "package": [
+            {
+                "name": "Standard 2WD",
+                "price": "RM99,800",
+                "cat": "Solid / Metallic"
+            },
+            {
+                "name": "Executive 2WD",
+                "price": "RM109,800",
+                "cat": "Solid / Metallic"
+            },
+            {
+                "name": "Executive AWD",
+                "price": "RM115,800",
+                "cat": "Solid / Metallic"
+            },
+            {
+                "name": "Premium 2WD",
+                "price": "RM123,800",
+                "cat": "Solid / Metallic"
+            }
+        ]
+    },
+    {
+        "model": "Saga",
+        "price": "RM32800.00*",
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/saga/2019-saga/navigation-icon/navigation_icon_442_170.ashx",
+        "package": [
+            {
+                "name": "Standard MT",
+                "price": "RM32,800"
+            },
+            {
+                "name": "Standard AT",
+                "price": "RM35,800"
+            }
+        ]
+    },
+    {
+        "model": "Persona",
+        "price": "RM42600.00*",
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/persona/new-360-visuals/navigation-tab-image/442x170.ashx"
+    },
+    {
+        "model": "Iriz",
+        "price": "RM36700.00*",
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/iriz/navigation/navigation_442x170.ashx"
+    },
+    {
+        "model": "Exora",
+        "price": "RM59800.00*",
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/exora/2019-exora/navigation/exora_navi.ashx"
+    },
+    {
+        "model": "Perdana",
+        "price": "RM103927.68*",
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/perdana/navigation/perdana-icon.ashx"
+    },
+    {
+        "model": "Ertiga",
+        "price": "RM56773.00*",
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/ertiga/navigation/ertiga-icon.ashx"
+    },
+    {
+        "model": "Preve",
+        "price": "RM61090.94*",
+        "image": "https://www.proton.com/-/media/project/proton-group/proton/media/car-models/preve/navigation/preve-icon.ashx"
+    }
+]
